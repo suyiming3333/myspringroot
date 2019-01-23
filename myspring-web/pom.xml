@@ -21,6 +21,11 @@
             <version>3.1.0</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.sym</groupId>
+            <artifactId>myspring-base</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -28,10 +33,10 @@
             <!--指定resources下的配置文件-->
             <resource>
                 <directory>src/main/resources</directory>
-                <includes>
-                    <include>spring-mvc.xml</include>
-                    <include>common.properties</include>
-                </includes>
+                <!--<includes>-->
+                    <!--<include>spring-mvc.xml</include>-->
+                    <!--<include>common.properties</include>-->
+                <!--</includes>-->
             </resource>
             <resource>
                 <directory>src/main/resources/profile/${profiles.active}</directory>

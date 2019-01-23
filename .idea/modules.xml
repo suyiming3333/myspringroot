@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/myspring-base/myspring-base.iml" filepath="$PROJECT_DIR$/myspring-base/myspring-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspring-root.iml" filepath="$PROJECT_DIR$/myspring-root.iml" />
       <module fileurl="file://$PROJECT_DIR$/myspring-web/myspring-web.iml" filepath="$PROJECT_DIR$/myspring-web/myspring-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/myspringroot.iml" filepath="$PROJECT_DIR$/.idea/myspringroot.iml" />
     </modules>
   </component>
 </project>
