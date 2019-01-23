@@ -29,6 +29,7 @@ public class User extends SuperEntity {
     /**
      * 用户年龄
      */
+    @TableField(fill = FieldFill.INSERT)
     private Integer age;
     /**
      * 自定义填充的创建时间

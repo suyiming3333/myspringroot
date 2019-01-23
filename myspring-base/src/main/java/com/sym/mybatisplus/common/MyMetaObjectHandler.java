@@ -13,7 +13,14 @@ public class MyMetaObjectHandler extends MetaObjectHandler {
 
     @Override
     public void insertFill(MetaObject metaObject) {
-        this.setFieldValByName("ctime", new Date(), metaObject);
+//        this.setFieldValByName("ctime", new Date(), metaObject);
+        Object age = metaObject.getValue("age");
+        if(age == null){
+            //如果不手动设置默认值，age为18
+            //metaObject.setValue("age",18);
+            setFieldValByName("age", 18, metaObject);
+        }
+        setFieldValByName("ctime", new Date(), metaObject);
     }
 
     @Override
