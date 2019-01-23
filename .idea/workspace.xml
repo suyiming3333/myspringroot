@@ -7,94 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c7ee6a7-595c-4af5-b0bd-4e815f727d50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_20_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_20_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_20_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_20_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/myspring-base.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/MyMetaObjectHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/result/JsonResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/utils/StringUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/BaseController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/enums/TypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-root.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-mybatis.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/myspringroot.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/classes/application-dev.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/classes/com/sym/springweb/controller/HelloController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/classes/com/sym/springweb/listener/MyServletContextListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/classes/com/sym/springweb/listener/MySpringApplicationListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/classes/com/sym/springweb/service/HelloService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/classes/common.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/classes/spring-mvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/classes/application-dev.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/classes/com/sym/springweb/controller/HelloController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/classes/com/sym/springweb/listener/MyServletContextListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/classes/com/sym/springweb/listener/MySpringApplicationListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/classes/com/sym/springweb/service/HelloService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/classes/common.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/classes/spring-mvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/spring-aop-4.3.20.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/spring-beans-4.3.20.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/spring-context-4.3.20.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/spring-core-4.3.20.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/spring-expression-4.3.20.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/spring-web-4.3.20.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/lib/spring-webmvc-4.3.20.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspring-web/target/myspring-web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myspringroot.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/myspring_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/myspring_web_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-web/myspring-web.iml" afterPath="$PROJECT_DIR$/myspring-web/myspring-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-web/pom.xml" afterPath="$PROJECT_DIR$/myspring-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/myspring-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/myspring-web/src/main/resources/common.properties" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/dbconfig.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/myspring-web/src/main/resources/spring-context.xml" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-context.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/myspring-web/src/main/resources/spring-mvc.xml" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-mvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java" afterPath="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml" afterPath="$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/myspring-web/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -108,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SuperMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperMapper.java">
+      <file leaf-file-name="SuperEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="207">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/mybatis-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -121,41 +49,33 @@
       <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="230">
+              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1548235990970" expanded="true" signature="365:387" ph="SELECT * FRO... sys_user" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspring-web/pom.xml">
+      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-mybatis.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="460">
+              <caret line="59" column="19" lean-forward="false" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2056">
-              <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-              <folding />
+            <state relative-caret-position="207">
+              <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TypeEnum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/enums/TypeEnum.java">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="513">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,27 +104,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-mybatis.xml">
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="56" column="70" lean-forward="false" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="70" />
-              <folding />
+            <state relative-caret-position="368">
+              <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dbconfig.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/dbconfig.properties">
+      <file leaf-file-name="IUserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="276">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MyMetaObjectHandler</find>
+      <find>openUpdateFill</find>
+      <find>metaObjectHandler</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -230,15 +161,15 @@
         <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperMapper.java" />
         <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/BaseController.java" />
         <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/enums/TypeEnum.java" />
-        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java" />
-        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java" />
-        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java" />
         <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java" />
         <option value="$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-mybatis.xml" />
-        <option value="$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml" />
         <option value="$PROJECT_DIR$/myspring-web/src/main/resources/dbconfig.properties" />
         <option value="$PROJECT_DIR$/myspring-web/pom.xml" />
+        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java" />
+        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java" />
+        <option value="$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java" />
+        <option value="$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java" />
       </list>
     </option>
   </component>
@@ -313,6 +244,67 @@
             <path>
               <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
+              <item name="myspring-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
+              <item name="myspring-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
+              <item name="myspring-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
+              <item name="myspring-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
+              <item name="myspring-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
+              <item name="myspring-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
+              <item name="myspring-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
               <item name="myspring-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,37 +332,28 @@
               <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
               <item name="myspring-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
-              <item name="myspring-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
-              <item name="myspring-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
               <item name="myspring-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="profile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myspring-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="myspringroot" type="462c0819:PsiDirectoryNode" />
               <item name="myspring-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -490,7 +473,6 @@
       <listeners />
     </configuration>
     <configuration name="tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.86" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
-      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="myspring-web:war exploded">
           <settings>
@@ -573,12 +555,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548208289850</updated>
       <workItem from="1548208293702" duration="4123000" />
-      <workItem from="1548229283476" duration="3744000" />
+      <workItem from="1548229283476" duration="7217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7867000" />
+    <option name="totallyTimeSpent" value="11340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
@@ -593,7 +575,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.055495102" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16213275" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -603,7 +585,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7475517" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32317737" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20948827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -627,17 +609,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java</url>
-          <line>38</line>
+          <line>40</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java</url>
-          <line>55</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -722,14 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myspring-web/target/classes/common.properties" />
     <entry file="file://$PROJECT_DIR$/myspring-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -771,120 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/result/JsonResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/utils/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/MyMetaObjectHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/enums/TypeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="56" column="70" lean-forward="false" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/dbconfig.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -917,10 +783,193 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/result/JsonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/utils/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9.jar!/com/baomidou/mybatisplus/enums/FieldFill.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9.jar!/com/baomidou/mybatisplus/entity/DefaultMetaObjectHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/enums/TypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/MyMetaObjectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9.jar!/com/baomidou/mybatisplus/mapper/MetaObjectHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9.jar!/com/baomidou/mybatisplus/entity/GlobalConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9.jar!/com/baomidou/mybatisplus/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2049#2050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/2.1.9/mybatis-plus-core-2.1.9.jar!/com/baomidou/mybatisplus/plugins/PaginationInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/common/SuperEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/spring/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="59" column="19" lean-forward="false" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/model/system/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/mapper/system/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-web/src/main/resources/mybatis/system/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <marker date="1548235990970" expanded="true" signature="365:387" ph="SELECT * FRO... sys_user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/service/system/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.1.9/mybatis-plus-support-2.1.9.jar!/com/baomidou/mybatisplus/mapper/EntityWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myspring-base/src/main/java/com/sym/mybatisplus/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

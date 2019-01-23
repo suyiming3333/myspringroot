@@ -7,12 +7,14 @@ import com.baomidou.mybatisplus.annotations.TableName;
 import com.baomidou.mybatisplus.enums.FieldFill;
 import com.sym.mybatisplus.common.SuperEntity;
 import com.sym.mybatisplus.model.enums.TypeEnum;
+import org.apache.ibatis.type.Alias;
 
 
 /**
  * 系统用户表
  */
 @TableName("sys_user")
+@Alias("User")
 public class User extends SuperEntity {
 
     /**

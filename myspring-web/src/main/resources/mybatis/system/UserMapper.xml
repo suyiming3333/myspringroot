@@ -7,4 +7,8 @@
         id, name, age
     </sql>
 
+    <select id="selectUserListByPage" resultType="User">
+        SELECT * FROM sys_user
+    </select>
+
 </mapper>

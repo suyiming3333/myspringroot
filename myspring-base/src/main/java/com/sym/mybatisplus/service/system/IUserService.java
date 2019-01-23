@@ -1,5 +1,6 @@
 package com.sym.mybatisplus.service.system;
 
+import com.baomidou.mybatisplus.plugins.Page;
 import com.baomidou.mybatisplus.service.IService;
 import com.sym.mybatisplus.model.system.User;
 
@@ -9,6 +10,5 @@ import com.sym.mybatisplus.model.system.User;
  *
  */
 public interface IUserService extends IService<User> {
-
 
 }

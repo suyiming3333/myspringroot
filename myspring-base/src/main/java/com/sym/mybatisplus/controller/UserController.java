@@ -1,5 +1,7 @@
 package com.sym.mybatisplus.controller;
 
+import com.baomidou.mybatisplus.mapper.EntityWrapper;
+import com.baomidou.mybatisplus.plugins.Page;
 import com.sym.mybatisplus.model.enums.TypeEnum;
 import com.sym.mybatisplus.model.system.User;
 import com.sym.mybatisplus.service.system.IUserService;
@@ -64,5 +66,20 @@ public class UserController extends BaseController {
     @RequestMapping("/delete")
     public Object delete(@RequestParam(value = "id", required = false) Long id) {
         return userService.deleteById(id) ? renderSuccess("删除成功") : renderError("删除失败");
+    }
+
+    /**
+     * mybatisplus 条件包装以及分页
+     * @return
+     */
+    @ResponseBody
+    @RequestMapping("/page")
+    public Object selectPage(){
+        EntityWrapper ew = new EntityWrapper();
+        ew.setEntity(new User());
+        ew.where("name = {0}","Tom").andNew("age>{0}","20").orderBy("age");
+        Page page=new Page(1,10);
+        page = userService.selectPage(page, ew);
+        return page;
     }
 }

@@ -1,7 +1,11 @@
 package com.sym.mybatisplus.mapper.system;
 
+import com.baomidou.mybatisplus.plugins.pagination.Pagination;
 import com.sym.mybatisplus.common.SuperMapper;
 import com.sym.mybatisplus.model.system.User;
+import org.apache.ibatis.annotations.Select;
+
+import java.util.List;
 
 /**
  *
@@ -9,6 +13,9 @@ import com.sym.mybatisplus.model.system.User;
  *
  */
 public interface UserMapper extends SuperMapper<User> {
+
+    @Select("selectUserListByPage")
+    List<User> selectUserListByPage(Pagination page);
 
 
 }
