@@ -1,5 +1,6 @@
 package com.sym.mybatisplus.model.system;
 
+import java.io.Serializable;
 import java.util.Date;
 
 import com.baomidou.mybatisplus.annotations.TableField;
@@ -15,7 +16,7 @@ import org.apache.ibatis.type.Alias;
  */
 @TableName("sys_user")
 @Alias("User")
-public class User extends SuperEntity {
+public class User extends SuperEntity implements Serializable{
 
     /**
      * 用户名

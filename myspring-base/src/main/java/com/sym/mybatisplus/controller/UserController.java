@@ -5,6 +5,7 @@ import com.baomidou.mybatisplus.plugins.Page;
 import com.sym.mybatisplus.model.enums.TypeEnum;
 import com.sym.mybatisplus.model.system.User;
 import com.sym.mybatisplus.service.system.IUserService;
+import com.sym.redis.RedisUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -80,6 +81,11 @@ public class UserController extends BaseController {
         ew.where("name = {0}","Tom").andNew("age>{0}","20").orderBy("age");
         Page page=new Page(1,10);
         page = userService.selectPage(page, ew);
+        User user = new User();
+        user.setName("corn");
+        user.setAge(25);
+        RedisUtil.set("test",user);
+        User getUser = RedisUtil.getObj("test",User.class);
         return page;
     }
 }
