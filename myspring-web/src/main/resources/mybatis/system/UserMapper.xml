@@ -7,7 +7,7 @@
         id, name, age
     </sql>
 
-    <select id="selectUserListByPage" resultType="User">
+    <select id="userList" resultType="User">
         SELECT * FROM sys_user
     </select>
 

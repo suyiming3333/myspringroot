@@ -14,8 +14,8 @@ import java.util.List;
  */
 public interface UserMapper extends SuperMapper<User> {
 
-    @Select("selectUserListByPage")
-    List<User> selectUserListByPage(Pagination page);
+    @Select("userList")
+    List<User> userList();
 
 
 }

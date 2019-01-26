@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
+import java.util.List;
+
 
 /**
  * Author: D.Yang
@@ -87,5 +89,12 @@ public class UserController extends BaseController {
         RedisUtil.set("test",user);
         User getUser = RedisUtil.getObj("test",User.class);
         return page;
+    }
+
+    @ResponseBody
+    @RequestMapping("/userList")
+    public Object userList(){
+        List<User> list = userService.userList();
+        return list;
     }
 }
